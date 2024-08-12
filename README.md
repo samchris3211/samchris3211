@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there , I'm Sam and I love all things Tech👋
 
 I’m looking to collaborate on LLM projects in the Automation and AI space.
 Just send me a message.
