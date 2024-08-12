@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I’m looking to collaborate on LLM projects in the Automation and AI space.
+Just send me a message.
+
 <!--
 **samchris3211/samchris3211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
